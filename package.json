@@ -1,0 +1,13 @@
+{
+  "name": "elm-tetris",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Tom Wey <tjmwey@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "elm-test": "^0.19.1-revision10"
+  },
+  "scripts": {
+    "test": "elm-test"
+  }
+}
